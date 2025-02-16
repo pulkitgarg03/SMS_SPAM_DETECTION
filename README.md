@@ -1,2 +1,2 @@
 # SMS_SPAM_DETECTION
-Conducted comprehensive data preprocessing by handling missing values, converting data types, and preparing a dataset of over 5,000 entries for exploratory data analysis (EDA), ensuring data quality and integrity.
+Developed a Spam Mail Classifier using Python, Machine Learning, and Natural Language Processing (NLP), achieving a 98% accuracy rate with the Bernoulli Naïve Bayes model on a dataset of 5,573 email samples.
